@@ -1,6 +1,7 @@
 {
   "name": "ryan_floyd_threejs",
   "version": "1.0.0",
+  "private": true,
   "description": "webpack starter",
   "main": "app.js",
   "scripts": {
